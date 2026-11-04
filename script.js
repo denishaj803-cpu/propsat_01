@@ -1,5 +1,6 @@
+
 const FIREBASE_DB_URL =
-  "https://zafisat-a2653-default-rtdb.asia-southeast1.firebasedatabase.app";
+  "https://propsat01-default-rtdb.asia-southeast1.firebasedatabase.app";
  
 function updateClock() {
   const now = new Date();
